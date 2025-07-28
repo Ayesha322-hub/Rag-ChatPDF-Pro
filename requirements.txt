@@ -1,0 +1,6 @@
+gradio
+PyMuPDF
+scikit-learn
+requests
+speechrecognition
+pyttsx3
