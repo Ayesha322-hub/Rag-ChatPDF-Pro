@@ -20,3 +20,13 @@ FAISS for semantic retrieval
 Streamlit for UI
 
 Deployed on Hugging Face Spaces
+
+title: Rag ChatPDF Pro
+emoji: ⚡
+colorFrom: blue
+colorTo: gray
+sdk: gradio
+sdk_version: 5.29.1
+app_file: app.py
+pinned: false
+license: mit
